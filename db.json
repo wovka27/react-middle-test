@@ -1,0 +1,25 @@
+{
+  "operator": [
+    {
+      "id": 1,
+      "balance": "9999",
+      "name": "MEGAFON",
+      "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-atlassian/events/medium_f7e95e28a457ea9ee7d854a61491eaf5.png",
+      "phone": "+7 999 999 99 99"
+    },
+    {
+      "id": 2,
+      "image": "https://topkin.ru/wp-content/uploads/2016/10/f_11151f3ab1df18a0.jpg",
+      "name": "BEELINE",
+      "balance": "1999",
+      "phone": "+7 999 999 99 99"
+    },
+    {
+      "id": 3,
+      "image": "https://dorogoyudobra.ru/wp-content/uploads/2018/11/my-mts-logo.png",
+      "name": "MTS",
+      "balance": "9999",
+      "phone": "+7 999 999 99 99"
+    }
+  ]
+}
